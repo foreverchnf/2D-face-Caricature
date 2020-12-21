@@ -20,7 +20,9 @@ Because after a small amount of training, it will acheive a good results and it'
 You need to choose and try to find out which snapshot get the best performance.
 
 ## 3.Blending Models
-It's also a process to try and find in which resolution to exchange two models weights is the best
+It's also a process to try and find in which resolution to exchange two models weights is the best.
+
+32 for 256 models and 64 for 1024 models are good choices.
 
 ## 4.Projecting and Generating
 ### a.Aligned photos at first.
