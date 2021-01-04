@@ -7,7 +7,7 @@ That's a dataset from Washington University.
 I choose 776 photos from those characters which has more than 100 from each one with different expressions.
 Use dataset_tool.py to create .tfrecord format.
 
-<img src="photos/reals.jpg" width="750" height="400" alt="icon"/></div>
+<img src="photos/reals.jpg" width="600" height="320" alt="dataset"/></div>
 
 ### b.yuanshen
 To be done. Currently can't get hundreds of faces of yuanshen chracters.
